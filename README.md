@@ -1,6 +1,6 @@
 # BITO_ASSIGNMENT_SurbhiVandana Frontend
 
-This is the frontend of the 
+This is the frontend of the Bito Assignment
 
 ## Getting Started
 
@@ -33,18 +33,3 @@ To get a local copy up and running follow these simple steps.
 ```
 
 ### our application will be running at `http://localhost:3000.`
-
-## Build
-
-### To build the production-ready code, run:
-```sh
-    npm run build
-```
-
-## Run
-
-### To run the production build, run:
-```sh
-    npm start
-```
-
